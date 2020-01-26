@@ -1,1 +1,2 @@
-hi my first git project
+hi my first git projecti
+this is my new update
